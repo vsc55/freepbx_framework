@@ -18,7 +18,7 @@ if (!isset($_SESSION['AMP_user'])) {
 	 }
 	//|| (isset($_SESSION['AMP_user']->username) && $_SESSION['AMP_user']->username != $_SERVER['PHP_AUTH_USER'])) {
 	//if we dont have a username/pass prompt for one
-	if (!$username || !$password) {
+	if (empty($username) || empty($password)) {
 		switch(strtolower($amp_conf['AUTHTYPE'])) {
 			case 'usermanager':
 			case 'database':
