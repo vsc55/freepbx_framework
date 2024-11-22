@@ -313,6 +313,7 @@ class Config {
 
 		// Note, No localization of the name field, this is a conf file! DON'T MESS WITH THIS!
 		$category = '';
+		$this_val = '';
 		foreach ($this->conf as $keyword => $value) {
 			if(isset($this->depreciatedSettings[$keyword])) {
 				$default_val = $this->depreciatedSettings[$keyword];

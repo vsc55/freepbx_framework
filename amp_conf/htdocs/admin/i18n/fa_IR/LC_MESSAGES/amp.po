@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-18 00:43-0400\n"
+"POT-Creation-Date: 2024-11-22 11:37-0500\n"
 "PO-Revision-Date: 2016-05-15 07:22+0200\n"
 "Last-Translator: Media <mousavi.media@gmail.com>\n"
 "Language-Team: Persian (Iran) <http://weblate.freepbx.org/projects/freepbx/"
@@ -197,7 +197,7 @@ msgstr "%s (حاضر:%s)"
 msgid "%s Advanced Settings"
 msgstr "%s تنظیمات پیشرفته"
 
-#: ../core/page.trunks.php:450
+#: ../core/page.trunks.php:447
 #, php-format
 msgid "%s Channel %s"
 msgstr "%s کانال %s"
@@ -4492,8 +4492,8 @@ msgstr "CID فوری خالی تنظیم شده برای یک یا چند تا �
 msgid "Emergency Route"
 msgstr "مسیر فوری"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:999
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1016
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1000
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1017
 msgid "Empty value not allowed for this field"
 msgstr "این فیلد نباید خالی باشد"
 
@@ -5767,7 +5767,7 @@ msgstr ""
 "سیستم، بارگذاری تنظیمات وغیره نمایش میدهد. برای نگه داری این پیام ها به "
 "ترتیبی که نمایش داده شده است، این گزینه را به درست تنظیم کنید."
 
-#: ../core/page.trunks.php:491
+#: ../core/page.trunks.php:488
 msgid ""
 "FreePBX offers limited support for DUNDi trunks and additional manual "
 "configuration is required. The trunk name should correspond to the "
@@ -6983,12 +6983,12 @@ msgid ""
 "or '0'"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:969
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:988
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:970
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:989
 msgid "Invalid value supplied to select"
 msgstr "مقدار انتخابی نادرست"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1024
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1025
 #, php-format
 msgid "Invalid value supplied violates the validation regex: %s"
 msgstr "Invalid value  supplied violates the validation regex: %s"
@@ -13526,8 +13526,8 @@ msgstr ""
 msgid "Value"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1051
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1056
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1052
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1057
 #, php-format
 msgid "Value [%s] out of range, changed to [%s]"
 msgstr "Value [%s] out of range, changed  to [%s]"
@@ -14627,7 +14627,7 @@ msgstr "اعمال تنظیمات پیکربندی پس از بارگذاری م
 msgid "call trasnfer monitoring service stopped"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:533
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:534
 msgid "called set_conf_values with a non-array"
 msgstr "called set_conf_values with  a non-array"
 
@@ -14892,7 +14892,7 @@ msgstr "قرار دادن"
 msgid "installing files to %s.."
 msgstr "نصب فایلها به %s.."
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:732
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:733
 #, php-format
 msgid "invalid validation options provided for keyword %s: %s"
 msgstr "گزینه های نامعتبر ایجاد شده برای کلمه کلیدی %s: %s"
@@ -15008,7 +15008,7 @@ msgid ""
 msgstr ""
 "matches any digit or letter  in the brackets (in this example, 1,2,3,7,8,9)"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:779
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:780
 #, php-format
 msgid ""
 "method define_conf_setting() failed to pass validation for keyword [%s] "
@@ -15035,17 +15035,17 @@ msgstr "در حال انتقال.."
 msgid "missing"
 msgstr "از دست دادن"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:723
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:724
 #, php-format
 msgid "missing options array for keyword [%s] required if type is select"
 msgstr "missing  options array for keyword [%s] required if type is select"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:710
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:711
 #, php-format
 msgid "missing options for keyword [%s] required if type is select"
 msgstr "missing options  for keyword [%s] required if type is select"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:701
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:702
 #, php-format
 msgid "missing value and/or defaultval required for [%s]"
 msgstr "از دست دادن مقدار و/یا مقدار اولیه لازم برای [%s]"
@@ -15280,7 +15280,7 @@ msgstr "تلاش مجدد"
 msgid "trying to move res_odbc.conf to res_odbc_custom.conf"
 msgstr "trying to  move res_odbc.conf to res_odbc_custom.conf"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:541
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:542
 #, php-format
 msgid "trying to set keyword [%s] to [%s] on uninitialized setting"
 msgstr "trying to set  keyword [%s] to [%s] on uninitialized setting"
@@ -15289,7 +15289,7 @@ msgstr "trying to set  keyword [%s] to [%s] on uninitialized setting"
 msgid "unknown"
 msgstr "ناشناخته"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1069
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1070
 #, php-format
 msgid "unknown type: [%s]"
 msgstr "نوع ناشناخته: [%s]"
@@ -15353,7 +15353,7 @@ msgstr "وقفه نوشتاری موجود است"
 msgid "writetimeout not present, adding"
 msgstr "وقفه نوشتاری وجود ندارد، افزودن"
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:698
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:699
 #, php-format
 msgid "you can't convert an existing type, keyword [%s]"
 msgstr "شما نمیتوانید نوع موجود را تبدیل کنید، کلمه کلیدی [%s]"

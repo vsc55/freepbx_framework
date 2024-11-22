@@ -166,7 +166,7 @@ msgstr ""
 msgid "%s Advanced Settings"
 msgstr ""
 
-#: ../core/page.trunks.php:450
+#: ../core/page.trunks.php:447
 #, php-format
 msgid "%s Channel %s"
 msgstr ""
@@ -4215,8 +4215,8 @@ msgstr ""
 msgid "Emergency Route"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:999
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1016
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1000
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1017
 msgid "Empty value not allowed for this field"
 msgstr ""
 
@@ -5431,7 +5431,7 @@ msgid ""
 "the on screen display, set this to true."
 msgstr ""
 
-#: ../core/page.trunks.php:491
+#: ../core/page.trunks.php:488
 msgid ""
 "FreePBX offers limited support for DUNDi trunks and additional manual "
 "configuration is required. The trunk name should correspond to the "
@@ -6528,12 +6528,12 @@ msgid ""
 "or '0'"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:969
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:988
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:970
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:989
 msgid "Invalid value supplied to select"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1024
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1025
 #, php-format
 msgid "Invalid value supplied violates the validation regex: %s"
 msgstr ""
@@ -12579,8 +12579,8 @@ msgstr ""
 msgid "Value"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1051
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1056
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1052
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1057
 #, php-format
 msgid "Value [%s] out of range, changed to [%s]"
 msgstr ""
@@ -13512,7 +13512,7 @@ msgstr ""
 msgid "call trasnfer monitoring service stopped"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:533
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:534
 msgid "called set_conf_values with a non-array"
 msgstr ""
 
@@ -13771,7 +13771,7 @@ msgstr ""
 msgid "installing files to %s.."
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:732
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:733
 #, php-format
 msgid "invalid validation options provided for keyword %s: %s"
 msgstr ""
@@ -13882,7 +13882,7 @@ msgid ""
 "matches any digit or letter in the brackets (in this example, 1,2,3,7,8,9)"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:779
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:780
 #, php-format
 msgid ""
 "method define_conf_setting() failed to pass validation for keyword [%s] "
@@ -13907,17 +13907,17 @@ msgstr ""
 msgid "missing"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:723
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:724
 #, php-format
 msgid "missing options array for keyword [%s] required if type is select"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:710
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:711
 #, php-format
 msgid "missing options for keyword [%s] required if type is select"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:701
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:702
 #, php-format
 msgid "missing value and/or defaultval required for [%s]"
 msgstr ""
@@ -14146,7 +14146,7 @@ msgstr ""
 msgid "trying to move res_odbc.conf to res_odbc_custom.conf"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:541
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:542
 #, php-format
 msgid "trying to set keyword [%s] to [%s] on uninitialized setting"
 msgstr ""
@@ -14155,7 +14155,7 @@ msgstr ""
 msgid "unknown"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1069
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:1070
 #, php-format
 msgid "unknown type: [%s]"
 msgstr ""
@@ -14218,7 +14218,7 @@ msgstr ""
 msgid "writetimeout not present, adding"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:698
+#: amp_conf/htdocs/admin/libraries/BMO/Config.class.php:699
 #, php-format
 msgid "you can't convert an existing type, keyword [%s]"
 msgstr ""
