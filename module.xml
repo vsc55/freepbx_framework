@@ -3,13 +3,14 @@
 	<modtype>framework</modtype>
 	<repo>standard</repo>
 	<name>FreePBX Framework</name>
-	<version>17.0.19.20</version>
+	<version>17.0.19.21</version>
 	<publisher>Sangoma Technologies Corporation</publisher>
 	<license>GPLv2+</license>
 	<licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
 	<candisable>no</candisable>
 	<canuninstall>no</canuninstall>
 	<changelog>
+		*17.0.19.21*  bump
 		*17.0.19.20*  bump
 		*17.0.19.19*  FREEI-1138 Adding support for issue hyperlink to Github or internal jira from module.xml changelog
 		*17.0.1* Inital Release

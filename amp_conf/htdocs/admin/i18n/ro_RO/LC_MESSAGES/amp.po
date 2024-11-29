@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-26 06:06-0500\n"
+"POT-Creation-Date: 2024-11-29 02:29-0500\n"
 "PO-Revision-Date: 2014-09-11 02:13+0200\n"
 "Last-Translator: Andrew <andrew.nagy@the159.com>\n"
 "Language-Team: Romanian <http://git.freepbx.org/projects/freepbx/framework/"
@@ -47,7 +47,7 @@ msgstr ""
 msgid " In Advance settings set SIP Channel Driver option to chan_pjsip."
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:179
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:190
 #, php-format
 msgid ""
 " The modules in the Extended repository are less common and may receive "
@@ -2372,7 +2372,7 @@ msgstr ""
 msgid "Checking for schema changes for core's users table."
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:181
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:192
 #, php-format
 msgid ""
 "Checking for updates will transmit your %s, Distro, Asterisk and PHP version "
@@ -2429,7 +2429,7 @@ msgid ""
 "congetstion, etc."
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:178
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:189
 msgid ""
 "Choose the repositories that you want to check for new modules. Any updates "
 "available for modules you have on your system will be detected even if the "
@@ -5471,7 +5471,7 @@ msgstr ""
 msgid "FreePBX Requires PHP Version 7.4 or Higher, you have: %s"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:270
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:281
 msgid "FreePBX Server"
 msgstr ""
 
@@ -6886,7 +6886,7 @@ msgstr ""
 msgid "Manage Session"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:168
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:179
 #: amp_conf/htdocs/admin/page.modules.php:764
 #: amp_conf/htdocs/admin/views/module_admin/reposelect.php:30
 msgid "Manage local modules"
@@ -8021,7 +8021,7 @@ msgid ""
 "billing reversal if supported"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:249
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:260
 msgid "Online Updates are Disabled"
 msgstr ""
 
@@ -8033,7 +8033,7 @@ msgstr ""
 msgid "Online info"
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:250
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:261
 msgid ""
 "Online updates are disabled in Advanced Settings. When disabled, you will "
 "not be notified of bug fixes and Security issues without manually checking "
@@ -10750,7 +10750,7 @@ msgid ""
 "is logged into."
 msgstr ""
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:180
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:191
 msgid ""
 "The Commercial repository is reserved for modules that are available for "
 "purchase and commercially supported."
@@ -12476,7 +12476,7 @@ msgstr ""
 msgid "Upload module"
 msgstr "Incarca modul"
 
-#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:171
+#: amp_conf/htdocs/admin/libraries/moduleAdminFunctions.php:182
 msgid "Upload modules"
 msgstr ""
 
