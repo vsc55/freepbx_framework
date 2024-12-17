@@ -3,13 +3,14 @@
 	<modtype>framework</modtype>
 	<repo>standard</repo>
 	<name>FreePBX Framework</name>
-	<version>17.0.19.21</version>
+	<version>17.0.19.22</version>
 	<publisher>Sangoma Technologies Corporation</publisher>
 	<license>GPLv2+</license>
 	<licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
 	<candisable>no</candisable>
 	<canuninstall>no</canuninstall>
 	<changelog>
+		*17.0.19.22* #582 FreePBX 17 FollowMe - GOSUB_RETVAL empty from [macro-blkvm-setifempty] 
 		*17.0.19.21*  bump
 		*17.0.19.20*  bump
 		*17.0.19.19*  FREEI-1138 Adding support for issue hyperlink to Github or internal jira from module.xml changelog
@@ -56,7 +57,7 @@
 			<field name="customcode" type="string" length="20" notnull="false"/>
 			<field name="enabled" type="boolean" default="0"/>
 			<field name="providedest" type="boolean" default="0"/>
-			<field name="depend" type="string" length="200"  notnull="false" />
+			<field name="depend" type="string" length="200" notnull="false"/>
 			<key name="enabled" type="index">
 				<column name="enabled"/>
 			</key>
