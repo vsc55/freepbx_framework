@@ -109,7 +109,7 @@ if (!isset($system_ident)) {
           </div>
         </div>
       </div>
-      <h3 class="text-center"><?php echo _("System Notifcations Email")?></h3>
+      <h3 class="text-center"><?php echo _("System Notifications Email")?></h3>
       <div class=''>
         <div class='row form-group'>
           <div class='col-sm-3'>

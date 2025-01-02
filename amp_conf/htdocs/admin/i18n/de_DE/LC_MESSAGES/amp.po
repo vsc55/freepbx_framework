@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: AMP VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-29 02:29-0500\n"
+"POT-Creation-Date: 2025-01-02 03:00-0500\n"
 "PO-Revision-Date: 2018-10-19 20:00+0000\n"
 "Last-Translator: Bastian Mertgen <b.mertgen@bastian-mertgen.de>\n"
 "Language-Team: German <http://*/projects/freepbx/framework/de/>\n"
@@ -10576,7 +10576,7 @@ msgid "System Identity"
 msgstr ""
 
 #: amp_conf/htdocs/admin/views/oobe.php:112
-msgid "System Notifcations Email"
+msgid "System Notifications Email"
 msgstr ""
 
 #: amp.i18n.php:678 ../core/install.php:444

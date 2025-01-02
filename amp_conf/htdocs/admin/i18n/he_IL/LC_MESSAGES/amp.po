@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreePBX 2.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-29 02:29-0500\n"
+"POT-Creation-Date: 2025-01-02 03:00-0500\n"
 "PO-Revision-Date: 2006-09-28 17:30+0300\n"
 "Last-Translator: Moshe Brevda mbrevda => gmail ! com\n"
 "MIME-Version: 1.0\n"
@@ -10448,7 +10448,7 @@ msgid "System Identity"
 msgstr ""
 
 #: amp_conf/htdocs/admin/views/oobe.php:112
-msgid "System Notifcations Email"
+msgid "System Notifications Email"
 msgstr ""
 
 #: amp.i18n.php:678 ../core/install.php:444

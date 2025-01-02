@@ -3,13 +3,13 @@
 # For licensing information, please see the file named LICENSE located in the module directory
 #
 # FreePBX language template for amp
-# Copyright (C) 2008-2024 Sangoma Technologies, Inc.
+# Copyright (C) 2008-2025 Sangoma Technologies, Inc.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-29 02:29-0500\n"
+"POT-Creation-Date: 2025-01-02 03:00-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10750,7 +10750,7 @@ msgid "System Identity"
 msgstr ""
 
 #: amp_conf/htdocs/admin/views/oobe.php:112
-msgid "System Notifcations Email"
+msgid "System Notifications Email"
 msgstr ""
 
 #: amp.i18n.php:678
